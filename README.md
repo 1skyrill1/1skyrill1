@@ -2,9 +2,13 @@
 
 Развиваю **IDS Core** — инструменты для проверки и подготовки BIM-моделей. Делаю повседневную работу с IFC и Revit удобнее: от заполнения параметров до поиска ошибок перед сдачей.
 
-### Над чем работаю
+### Мой основной проект
 
 **[IDS Core](https://idscore.online/)** — плагин для Revit и просмотрщик IFC в браузере.
+
+[![Открыть IFC, найти элемент, изменить параметр и сохранить результат](https://raw.githubusercontent.com/1skyrill1/ids-core-community/main/assets/viewer-demo.gif)](https://idscore.online/viewer.html?demo=1)
+
+[**Страница проекта на GitHub →**](https://github.com/1skyrill1/ids-core-community) · [Что нового](https://github.com/1skyrill1/ids-core-community/blob/main/NEWS.md) · [Планы](https://github.com/1skyrill1/ids-core-community/blob/main/ROADMAP.md)
 
 - **IFC онлайн:** проверка по IDS, площади ТЭП, сравнение версий, дубли и коллизии, правка параметров и уровней.
 - **Revit:** проверка по IDS, заполнение параметров и кодов МССК, сбор ТЭП и подготовка к экспорту IFC.

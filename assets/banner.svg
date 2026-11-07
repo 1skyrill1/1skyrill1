@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">IDS Core — инструменты для IFC и Revit</title><desc id="desc">Проверка моделей, постобработка IFC и автоматизация Revit.</desc>
+<rect width="1200" height="320" rx="24" fill="#3E86DC"/>
+<rect x="22" y="22" width="1156" height="276" rx="18" fill="#F1F5FA"/>
+<g transform="translate(62 62)" fill="none" stroke="#3E86DC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="m18 28 11 11 22-25"/><circle cx="34" cy="28" r="29" opacity=".2"/></g>
+<text x="144" y="104" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700" fill="#16222E">IDS Core</text>
+<text x="62" y="175" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="600" fill="#16222E">Инструменты для IFC и Revit</text>
+<text x="62" y="218" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#5C6C7E">Проверка моделей · постобработка · автоматизация</text>
+<text x="62" y="264" font-family="Consolas,monospace" font-size="18" fill="#3E86DC">idscore.online</text>
+<g transform="translate(930 64)" stroke="#3E86DC" stroke-width="2.5" stroke-linejoin="round"><path d="m0 56 80-45 80 45v112l-80 45-80-45Z" fill="#EAF1FB"/><path d="m0 56 80 45 80-45M80 101v112" fill="none"/><path d="M20 88v65l40 23v-65ZM100 112v64l40-23V88Z" fill="#fff"/><path d="m0 56 80-45 80 45-80 45Z" fill="#3E86DC" fill-opacity=".13"/></g>
+</svg>
